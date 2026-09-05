@@ -4,7 +4,7 @@ This repository contains my solutions to **LeetCode problems**.
 
 ## About
 
-* Solutions are mainly written in **C++**
+* Solutions are mainly written in **C++** & **Python**
 * Problems are added regularly
 * Each problem contains its solution and basic explanation
 * Focus is on learning **Data Structures and Algorithms**
