@@ -25,4 +25,4 @@ This repository contains my solutions to **LeetCode problems**.
 
 To improve my problem-solving skills and practice DSA consistently.
 
-⭐ More problems will be added regularly.
+⭐ More problems will be solved regularly on Leetcode.
