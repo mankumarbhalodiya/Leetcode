@@ -1,13 +1,28 @@
-## Overview
+# LeetCode Solutions
 
-The goal of this problem is to find the **smallest stable index** in an array.
+This repository contains my solutions to **LeetCode problems**.
 
-An index `i` is considered stable if the difference between the maximum value in the left part (`nums[0...i]`) and the minimum value in the right part (`nums[i...n-1]`) is at most `k`.
+## About
 
-To solve this efficiently, we maintain:
-- A **suffix minimum array** to quickly find the minimum value from each index to the end.
-- A **running prefix maximum** while traversing the array from left to right.
+* Solutions are mainly written in **C++**
+* Problems are added regularly
+* Each problem contains its solution and basic explanation
+* Focus is on learning **Data Structures and Algorithms**
 
-The first index satisfying the condition is returned. If no such index exists, we return `-1`.
+## Topics
 
-This approach solves the problem in **O(n) time** with **O(n) extra space**.
+* Arrays
+* Strings
+* Linked List
+* Stack & Queue
+* Trees
+* Graphs
+* Sorting
+* Searching
+* Dynamic Programming
+
+## Goal
+
+To improve my problem-solving skills and practice DSA consistently.
+
+⭐ More problems will be added regularly.
